@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("asd")
         
         print("asd 2")
+        
+        print("asd 3")
+
     }
 
 
